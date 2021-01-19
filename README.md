@@ -33,13 +33,13 @@ I am a Full-stack Flutter Mobile Developer who is exploring MERN stack while hel
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AparGarg99&show_icons=true&hide_border=true)
+<br/>
 ![Profile views](https://gpvc.arturio.dev/AparGarg99)  <img src="https://img.shields.io/github/followers/AparGarg99?label=Follow" style=" float:left, margin-right:10px" />
 
-<img align="left" alt="Apar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AparGarg99&show_icons=true&hide_border=true&count_private=true" />
 ---
 
 
-### You can find in me in the web 🌍
+### Connect with me:
 [<img align="left" alt="AparGarg99 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="AparGarg99 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
