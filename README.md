@@ -43,7 +43,7 @@ I am a Full-stack Flutter Mobile Developer who is exploring MERN stack while hel
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manthan109&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AparGarg99&show_icons=true&hide_border=true)
 
 ---
 
