@@ -40,8 +40,6 @@ I am a Full-stack Flutter Mobile Developer who is exploring MERN stack while hel
 
 [![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=@apargarg99&type=horizontal)](https://medium.com/@apargarg99)
 
-Let's connect 👨‍💻 and forge the future together.😁✌
-
 ---
 
 ### Connect with me
@@ -51,5 +49,4 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 [medium]: https://medium.com/@apargarg99
 [linkedin]: https://www.linkedin.com/in/apar-garg-056531149/
 
-
-<br/>
+Let's connect 👨‍💻 and forge the future together.😁✌
