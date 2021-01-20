@@ -22,7 +22,7 @@ I am a Full-stack Flutter Mobile Developer who is exploring MERN stack while hel
 ---
 
 
-### Languages and Tools:
+### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -39,7 +39,7 @@ I am a Full-stack Flutter Mobile Developer who is exploring MERN stack while hel
 ---
 
 
-### Connect with me:
+### Connect with me
 [<img align="left" alt="AparGarg99 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="AparGarg99 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -51,7 +51,7 @@ I am a Full-stack Flutter Mobile Developer who is exploring MERN stack while hel
 
 
 ---
-### You can checkout my blogs :loudspeaker: 
+### Checkout my blogs
 
 [![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=@manthangupta109&type=horizontal)](https://medium.com/@manthangupta109)
 
@@ -59,7 +59,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [Manthan109](https://github.com/Manthan109)
+:star: From [Apar Garg](https://github.com/AparGarg99)
 
 
 
