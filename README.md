@@ -1,5 +1,5 @@
 ### Hi there! I'm Apar 👋
-
+<br/>
 
 I am a Data Scientist. :wink:
  
@@ -12,6 +12,7 @@ I am a Data Scientist. :wink:
 
 ---
 ### Languages and Tools
+
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -19,15 +20,14 @@ I am a Data Scientist. :wink:
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
----
 
+---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AparGarg99&show_icons=true&hide_border=true)
 <br/>
 ![Profile views](https://gpvc.arturio.dev/AparGarg99)  <img src="https://img.shields.io/github/followers/AparGarg99?label=Follow" style=" float:left, margin-right:10px" />
 
 ---
 ### Checkout my blogs
-
 [![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=@apargarg99&type=horizontal)](https://medium.com/@apargarg99)
 
 ---
