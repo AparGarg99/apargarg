@@ -37,7 +37,13 @@ I am a Full-stack Flutter Mobile Developer who is exploring MERN stack while hel
 ![Profile views](https://gpvc.arturio.dev/AparGarg99)  <img src="https://img.shields.io/github/followers/AparGarg99?label=Follow" style=" float:left, margin-right:10px" />
 
 ---
+### Checkout my blogs
 
+[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=@manthangupta109&type=horizontal)](https://medium.com/@manthangupta109)
+
+Let's connect 👨‍💻 and forge the future together.😁✌
+
+---
 
 ### Connect with me
 [<img align="left" alt="AparGarg99 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
@@ -49,17 +55,9 @@ I am a Full-stack Flutter Mobile Developer who is exploring MERN stack while hel
 
 <br/>
 
+**Checkout my [Repositories](https://github.com/AparGarg99) and don't forget to give a :star:.** 👇
 
----
-### Checkout my blogs
-
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=@manthangupta109&type=horizontal)](https://medium.com/@manthangupta109)
-
-Let's connect 👨‍💻 and forge the future together.😁✌
-
-**Check the Repositories and don't forget to give a star.** 👇
-
-:star: From [Apar Garg](https://github.com/AparGarg99)
+:star: for [Apar Garg](https://github.com/AparGarg99)
 
 
 
