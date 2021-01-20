@@ -18,7 +18,7 @@ I am a Full-stack Flutter Mobile Developer who is exploring MERN stack while hel
  
  💬 Ask me about Tech-related stuff.
 
-**Checkout my [Repositories](https://github.com/AparGarg99) and don't forget to give a :star:**
+*Checkout my [Repositories](https://github.com/AparGarg99) and don't forget to give a :star:*
 ---
 
 ### Languages and Tools
@@ -48,5 +48,5 @@ I am a Full-stack Flutter Mobile Developer who is exploring MERN stack while hel
 
 [medium]: https://medium.com/@apargarg99
 [linkedin]: https://www.linkedin.com/in/apar-garg-056531149/
-
+<br/>
 Let's connect 👨‍💻 and forge the future together.😁✌
