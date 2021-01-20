@@ -2,9 +2,8 @@
 
 
 ---
-![manthan_gupta](https://user-images.githubusercontent.com/42516515/97008708-cfa9fd80-1560-11eb-8b6c-6872b346f306.gif)
 
-I am a Data Scientist :wink:
+I am a Data Scientist. :wink:
  
  :books: I love contributing to the DS community by making [Tutorials](https://apargarg99.github.io/Tutorials). This is a go-to place for all DS enthusiasts.
  
@@ -41,5 +40,4 @@ I am a Data Scientist :wink:
 [linkedin]: https://www.linkedin.com/in/apar-garg-056531149/
 
 <br/><br/>
-
 Let's connect 👨‍💻 and forge the future together.😁✌
