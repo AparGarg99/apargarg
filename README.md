@@ -6,17 +6,10 @@
 
 I am a Full-stack Flutter Mobile Developer who is exploring MERN stack while helping other fellow peers figure out. :wink:
  
- 🔭 I’m planning for multiple Projects.
+ :books: I love studying Data Science concepts and making [tutorials] (https://apargarg99.github.io/Tutorials).
  
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+ 🌱 I like to keep myself updated with trending research in Deep Learning.
  
- :books: I want to learn <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> and <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
- 
- 👯 I’m looking to collaborate for a Flutter and ML-based project.
- 
- 🤔 I’m looking for help with creating youtube content to teach coding.
- 
- 💬 Ask me about Tech-related stuff.
 
 #### *Checkout my <a href="https://github.com/AparGarg99">Repositories</a> and don't forget to give a :star:*
 ---
@@ -43,10 +36,9 @@ I am a Full-stack Flutter Mobile Developer who is exploring MERN stack while hel
 ---
 
 ### Connect with me
-[<img align="left" alt="AparGarg99 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="AparGarg99 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[medium]: https://medium.com/@apargarg99
 [linkedin]: https://www.linkedin.com/in/apar-garg-056531149/
+
 <br/>
+
 Let's connect 👨‍💻 and forge the future together.😁✌
