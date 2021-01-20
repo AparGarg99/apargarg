@@ -18,9 +18,8 @@ I am a Full-stack Flutter Mobile Developer who is exploring MERN stack while hel
  
  💬 Ask me about Tech-related stuff.
 
-
+**Checkout my [Repositories](https://github.com/AparGarg99) and don't forget to give a :star:**
 ---
-
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -39,7 +38,7 @@ I am a Full-stack Flutter Mobile Developer who is exploring MERN stack while hel
 ---
 ### Checkout my blogs
 
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=@manthangupta109&type=horizontal)](https://medium.com/@manthangupta109)
+[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=@apargarg99&type=horizontal)](https://medium.com/@apargarg99)
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
@@ -54,10 +53,3 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 
 <br/>
-
-**Checkout my [Repositories](https://github.com/AparGarg99) and don't forget to give a :star:.** 👇
-
-:star: for [Apar Garg](https://github.com/AparGarg99)
-
-
-
