@@ -28,7 +28,7 @@ I am a Data Scientist. :wink:
 
 ---
 ### Checkout my blogs
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=@apargarg99&type=horizontal&limit=3)](https://medium.com/@apargarg99)
+[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=@apargarg99&type=horizontal)](https://medium.com/@apargarg99)
 
 ---
 ### Connect with me
