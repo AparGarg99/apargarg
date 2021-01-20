@@ -1,8 +1,5 @@
 ### Hi there! I'm Apar 👋
 
-
----
-
 I am a Data Scientist. :wink:
  
  :books: I love contributing to the DS community by making [Tutorials](https://apargarg99.github.io/Tutorials). This is a go-to place for all DS enthusiasts.
@@ -10,7 +7,7 @@ I am a Data Scientist. :wink:
  🌱 I like to keep myself updated with trending research in Deep Learning.
  
 
-#### *Checkout my <a href="https://github.com/AparGarg99">Repositories</a> and don't forget to give a :star:*
+#### *Checkout my <a href="https://github.com/AparGarg99?tab=repositories">Repositories</a> and don't forget to give a :star:*
 ---
 
 ### Languages and Tools
