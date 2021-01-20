@@ -6,7 +6,7 @@
 
 I am a Full-stack Flutter Mobile Developer who is exploring MERN stack while helping other fellow peers figure out. :wink:
  
- :books: I love studying Data Science concepts and making ![tutorials](https://apargarg99.github.io/Tutorials).
+ :books: I love studying Data Science concepts and making [tutorials](https://apargarg99.github.io/Tutorials).
  
  🌱 I like to keep myself updated with trending research in Deep Learning.
  
@@ -37,6 +37,7 @@ I am a Full-stack Flutter Mobile Developer who is exploring MERN stack while hel
 
 ### Connect with me
 [<img align="left" alt="AparGarg99 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [linkedin]: https://www.linkedin.com/in/apar-garg-056531149/
 
 <br/>
