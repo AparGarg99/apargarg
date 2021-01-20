@@ -1,5 +1,6 @@
 ### Hi there! I'm Apar 👋
 
+
 I am a Data Scientist. :wink:
  
  :books: I love contributing to the DS community by making [Tutorials](https://apargarg99.github.io/Tutorials). This is a go-to place for all DS enthusiasts.
@@ -8,8 +9,8 @@ I am a Data Scientist. :wink:
  
 
 #### *Checkout my <a href="https://github.com/AparGarg99?tab=repositories">Repositories</a> and don't forget to give a :star:*
----
 
+---
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -30,7 +31,6 @@ I am a Data Scientist. :wink:
 [![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=@apargarg99&type=horizontal)](https://medium.com/@apargarg99)
 
 ---
-
 ### Connect with me
 [<img align="left" alt="AparGarg99 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
