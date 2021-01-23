@@ -22,7 +22,7 @@ I am a Data Scientist. :wink:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AparGarg99&show_icons=true&hide_border=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AparGarg99&show_icons=true&hide_border=true&count_private=false)
 <br/>
 ![Profile views](https://gpvc.arturio.dev/AparGarg99)  <img src="https://img.shields.io/github/followers/AparGarg99?label=Follow" style=" float:left, margin-right:10px" />
 
