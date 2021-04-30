@@ -1,4 +1,4 @@
-### Hi there! I'm Apar 👋
+### Hi there! I'm Apar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
 
 I am a Data Scientist. :wink:
