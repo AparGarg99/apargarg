@@ -1,4 +1,4 @@
-### Hi there! I'm Apar <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" height=""50px" width="50px">
+### Hi there! I'm Apar <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" width="50px">
 <br/>
 
 I am a Data Scientist. :wink:
