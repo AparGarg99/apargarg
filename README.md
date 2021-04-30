@@ -1,4 +1,4 @@
-### Hi there! I'm Apar <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="30px">
+### Hi there! I'm Apar <img src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="50px">
 <br/>
 
 I am a Data Scientist. :wink:
