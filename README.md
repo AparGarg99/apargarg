@@ -29,7 +29,7 @@ I am a Data Scientist. :wink:
 ### Connect with me
 [<img align="left" alt="AparGarg99 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/apar-garg-056531149/
+[linkedin]: https://www.linkedin.com/in/apargarg99/
 
 <br/><br/>
 Let's connect 👨‍💻 and forge the future together.😁✌
