@@ -1,6 +1,7 @@
-### Hi there! I'm Apar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there! I'm Apar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
 
+### About Me
 I am a Data Scientist. :wink:
  
  :books: I love contributing to the DS community by making [Tutorials](https://apargarg99.github.io/Tutorials). This is a go-to place for all DS enthusiasts.
