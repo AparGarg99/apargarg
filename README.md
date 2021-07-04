@@ -1,9 +1,9 @@
 ## Hi there! I'm Apar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### About Me
-I am a Data Scientist. :wink:
+👨‍🎓 Student at National University of Singapore (NUS). Pursuing M.Tech. in Intelligent Systems.
  
- :books: I love contributing to the DS community by making [Tutorials](https://apargarg99.github.io/Tutorials). This is a go-to place for all DS enthusiasts.
+📚 I love contributing to the DS community by making [Tutorials](https://apargarg99.github.io/Tutorials). This is a go-to place for all DS enthusiasts.
  
  🌱 I like to keep myself updated with trending research in Deep Learning.
  
