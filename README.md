@@ -32,11 +32,12 @@
 
 ---
 ### Connect with me
-[![LinkedIn](http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)][linkedin] <br>
-[![Medium](http://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)][medium]
-
 [linkedin]: https://www.linkedin.com/in/apargarg99/
 [medium]: https://apargarg99.medium.com/
 
-<br/><br/>
+[![LinkedIn](http://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedIn&logoColor=white)][linkedin]
+[![Medium](http://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)][medium]
+
+
+<br/>
 Let's connect 👨‍💻 and forge the future together.😁✌
