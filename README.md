@@ -2,8 +2,11 @@
 
 ### About Me
 👨‍🎓 Student at National University of Singapore (NUS). Pursuing M.Tech. in Intelligent Systems.
+
 🎯 My aim is to build digital solutions using Data Science that solve real-world 🌍 problems. 
+
 📚 I love contributing to the DS community by making [Tutorials](https://apargarg99.github.io/Tutorials). This is a go-to place for all DS enthusiasts.
+
 🌱 I like to keep myself updated with trending research in Deep Learning.
  
 
