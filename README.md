@@ -15,7 +15,7 @@
 ---
 ### Languages and Tools
 
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF)
