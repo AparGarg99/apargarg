@@ -2,10 +2,9 @@
 
 ### About Me
 👨‍🎓 Student at National University of Singapore (NUS). Pursuing M.Tech. in Intelligent Systems.
- 
+🎯 My aim is to build digital solutions using Data Science that solve real-world 🌍 problems. 
 📚 I love contributing to the DS community by making [Tutorials](https://apargarg99.github.io/Tutorials). This is a go-to place for all DS enthusiasts.
- 
- 🌱 I like to keep myself updated with trending research in Deep Learning.
+🌱 I like to keep myself updated with trending research in Deep Learning.
  
 
 #### *Checkout my <a href="https://github.com/AparGarg99?tab=repositories">Repositories</a> and don't forget to give a :star:*
@@ -16,10 +15,12 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 
 ---
 ### Checkout my blogs
