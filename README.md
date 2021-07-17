@@ -1,5 +1,3 @@
-## Hi there! I'm Apar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 ### About Me
 👨‍🎓 Student at National University of Singapore (NUS). Pursuing M.Tech. in Intelligent Systems.
 
