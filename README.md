@@ -26,7 +26,7 @@
 
 ---
 ### Checkout my blogs
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=apargarg99&type=horizontal&limit=2)](https://medium.com/@apargarg99)
+[![](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=apargarg99&type=horizontal&limit=2)](https://medium.com/@apargarg99)
 
 ---
 ### Connect with me
